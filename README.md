@@ -1,6 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # Brainsoft-Competitive-Programming-Archive
+
 A comprehensive archive of algorithms, data structures, and problem solutions curated during my longest programming journey. Focused on ICPC preparation and efficient problem-solving.
+
+---
 
 ## 👤 About Me
 - **Name:** Muhammad Al-Muzahid
@@ -10,9 +13,51 @@ A comprehensive archive of algorithms, data structures, and problem solutions cu
 
 ---
 
-## 📂 Repository Structure
+## 🔗 Online Judge Profiles
+| Platform | Handle / Profile | Max Rating | Solved |
+| :--- | :--- | :--- | :--- |
+| **Codeforces** | [brainsoft](https://codeforces.com/profile/brainsoft) | 1376 (Pupil) | **2100+** |
+| **CodeChef** | [brainsoft](https://www.codechef.com/users/brainsoft) | 1745 | - |
+| **LeetCode** | [brainsoft](https://leetcode.com/u/brainsoft/) | 1550 | - |
+| **AtCoder** | [brainsoft](https://atcoder.jp/users/brainsoft) | 456 | - |
+| **Beecrowd** | [338748](https://judge.beecrowd.com/en/profile/338748) | - | 306 |
+| **HackerRank** | [almuzahid](https://www.hackerrank.com/profile/almuzahid) | 2 Gold Badges | - |
 
-The repository is organized by topic to make it easier to find specific techniques and templates:
+---
+
+## 🚩 Major Milestones & Achievements
+- 🏆 **3x ICPC Asia Dhaka Regionalist:** 2023, 2024, and **2025**.
+- 🏆 **NCPC Finalist:** 2023 (Hosted by JU).
+- 🏅 **Regional Standings:**
+    - ICPC Asia Dhaka Regional 2024 (Onsite): Ranked **205**.
+    - ICPC Asia Dhaka Regional 2023 (Onsite): Ranked **134**.
+    - ICPC Preliminary Dhaka Site 2024: Ranked **277** (out of 2489 teams).
+
+---
+
+## 🥇 Selected Contest Standings
+
+### **Podium Finishes (Top 3)**
+- **Rank 1st:** Welcome to PSTU : Ignite the Future - Junior Programming Battle.
+- **Rank 2nd:** Happy New Year 2022 - PSTU Tech Support.
+- **Rank 3rd:** Intra PSTU Independence Day Programming Contest - 2024.
+
+### **Top Tier Rankings**
+- **Rank 4th:** SPC Round 23 (out of 48).
+- **Rank 4th:** Codepie Programming Contest - 2023.
+- **Rank 5th:** Collaborative Programming Contest.
+- **Rank 12th:** Khulna Regional Inter University Programming Contest (KRIUPC).
+- **Rank 15th:** BUITS IT Fest 1.0: Programming contest.
+
+### **Regional & Preliminary Performance**
+- **Rank 16th:** 2nd UGV South Zone Programming Contest (SZPC)-2023 Final.
+- **Rank 28th:** PSTU IT Carnival Programming Contest 2024 (South Zone).
+- **Rank 63rd:** 7th DRMC International Tech Carnival 2024 Preliminary.
+- **Rank 214th:** ICPC Asia Dhaka Regional 2023 Online Preliminary (out of 2479).
+
+---
+
+## 📂 Repository Structure
 
 ```text
 .
