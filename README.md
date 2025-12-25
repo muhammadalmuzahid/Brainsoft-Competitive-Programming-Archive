@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 # Brainsoft-Competitive-Programming-Archive
 A comprehensive archive of algorithms, data structures, and problem solutions curated during my longest programming journey. Focused on ICPC preparation and efficient problem-solving.
 
